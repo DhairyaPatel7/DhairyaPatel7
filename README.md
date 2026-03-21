@@ -27,5 +27,9 @@
 </p>
 
 <p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=DhairyaPatel7&bg_color=282a36&color=ffffff&line=e36594&point=c885ff&area=true&hide_border=true" />
+</p>
+
+<p align="center">
   <img src="https://github.com/DhairyaPatel7/DhairyaPatel7/raw/output/github-contribution-grid-snake-dark.svg" alt="snake">
 </p>
