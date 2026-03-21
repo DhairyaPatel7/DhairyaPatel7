@@ -8,8 +8,8 @@
     <em>Somewhere between <code>git push</code> and <code>git push --force</code></em>
 </p>
 
-[![Twitter](https://img.shields.io/badge/Twitter-blue?style=flat-square&logo=twitter&logoColor=white)](https://twitter.com/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/)
+[![Twitter](https://img.shields.io/badge/Twitter-blue?style=flat-square&logo=twitter&logoColor=white)](https://x.com/dhairyapatel72)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dhairya-kalpeshbhai-patel/)
 [![GitHub followers](https://img.shields.io/github/followers/DhairyaPatel7?label=Follow&style=social)](https://github.com/DhairyaPatel7/)
 
 ---
