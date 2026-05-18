@@ -22,10 +22,12 @@
 
 ---
 
-<p align="center">
-  <img height="180" src="https://github-readme-stats-sigma-five.vercel.app/api?username=DhairyaPatel7&show_icons=true&theme=dracula&hide_border=true&count_private=true&include_all_commits=true" />
-  <img height="180" src="https://streak-stats.demolab.com/?user=DhairyaPatel7&theme=dracula&hide_border=true" />
-</p>
+<table align="center">
+  <tr>
+    <td><img height="165" src="https://github-readme-stats-sigma-five.vercel.app/api?username=DhairyaPatel7&show_icons=true&theme=dracula&hide_border=true&count_private=true&include_all_commits=true" /></td>
+    <td><img height="165" src="https://streak-stats.demolab.com/?user=DhairyaPatel7&theme=dracula&hide_border=true" /></td>
+  </tr>
+</table>
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=DhairyaPatel7&bg_color=282a36&color=ffffff&line=e36594&point=c885ff&area=true&hide_border=true" />
