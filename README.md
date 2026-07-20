@@ -1,24 +1,25 @@
 <h1>
-    Hey there!
-    <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">
-    I'm Dhairya
+  Hi, I'm Dhairya
+  <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">
 </h1>
 
 <p>
-    <em>Somewhere between <code>git push</code> and <code>git push --force</code></em>
+  <strong>AI-native full-stack engineer</strong> and former startup CTO. 6+ years shipping products end to end, from full-stack SaaS to autonomous AI agents.
 </p>
 
-[![Twitter](https://img.shields.io/badge/Twitter-blue?style=flat-square&logo=twitter&logoColor=white)](https://x.com/dhairyapatel72)
+[![Portfolio](https://img.shields.io/badge/Portfolio-0B1730?style=flat-square&logo=vercel&logoColor=white)](https://portfolio.dhairyapatel.co.in)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dhairya-kalpeshbhai-patel/)
+[![Twitter](https://img.shields.io/badge/Twitter-blue?style=flat-square&logo=twitter&logoColor=white)](https://x.com/dhairyapatel72)
 [![GitHub followers](https://img.shields.io/github/followers/DhairyaPatel7?label=Follow&style=social)](https://github.com/DhairyaPatel7/)
 
 ---
 
-### About Me
+### About
 
-- 👨‍💻 &nbsp; Software Engineer. 6+ years.
-- 🛠 &nbsp; I build systems, train models, and occasionally push to main on Fridays.
-- 🧰 &nbsp; Languages are just tools — I write in whatever the problem demands. I just happen to carry a lot of them.
+- 🤖 &nbsp; I build production autonomous AI agents and full-stack products, end to end.
+- 🧠 &nbsp; AI-native by default. A daily workflow I built automates over 70% of my routine work.
+- 🏗 &nbsp; Former co-founder & CTO. I ship 0 to 1 and think like an owner.
+- 🧰 &nbsp; Python, TypeScript, Go, FastAPI, Django, Node, React/Next.js, AWS, and the LLM/agent stack.
 
 ---
 
